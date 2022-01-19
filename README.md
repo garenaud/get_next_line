@@ -29,4 +29,4 @@ This function will use your raw line, and return the characters before the newli
 
 
 #### char	*ft_get_start(char *raw_line)
-This function will use your raw line, and return the characters after the newline character. The return of this function will be stock in the static variable of the main function in the purpose to be join to the buff if you call the function again.
+This function will use your raw line, and return the characters after the newline character. The return of this function will be stocked in the static variable of the main function in the purpose to be join to the buff if you call the function again.
