@@ -1,5 +1,5 @@
 # Get_next_line (without bonus)
-Project from 42 school, get_next_line is a function that reads a file and allows you to read a line ending with a newline character from a file descriptor. When you call the function again on the same file, it grabs the next line.
+Project from 42 school, get_next_line is a function that reads a file and allows you to read a line ending with a newline character from a file descriptor. When you call the function again on the same file, it grabs the next line. [read the subject](https://github.com/garenaud/Get_next_line/blob/main/GNL.subject.pdf "GNL subject")
 
 <img width="787" alt="Screen Shot 2022-01-19 at 4 56 45 PM" src="https://user-images.githubusercontent.com/61365508/150167480-d70dac67-bc15-4b54-b97a-3d36e9bcbe4e.png">
 
